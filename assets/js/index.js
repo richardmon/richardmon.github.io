@@ -120,8 +120,8 @@ async function main() {
   const cat_technologies_output =
     "JavaScript, Angular JS, React, Material design, Typescript, Redux, CSS,\n" +
     "Stylus, HTML5, Pug, Jinja,Python, Django, Flask, PHP,\n" +
-    "CodeIgniter, Laravel, Wordpress,\n" +
-    "Node.js, Express, AWS, Linux, MongoDB, MariaDB, MySQL, Oracle DB,Curl, BASH, Selenium";
+    "CodeIgniter, Laravel, Wordpress, Java, Spring Boot \n" +
+  ("Node.js, Express, AWS, Linux, MongoDB, MariaDB, MySQL, Oracle DB,Curl, BASH, Selenium");
   await inputOutputConsole(cat_technologies, cat_technologies_output);
 
   // SKILLS.txt
